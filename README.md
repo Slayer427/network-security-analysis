@@ -32,7 +32,14 @@ This project demonstrates basic network security implementation and traffic anal
 - Importance of secure configurations in networks
 
 ## 📸 Screenshots
+## Nmap Scan
+![Nmap Scan](nmap_scan.png)
 
+## DNS Capture
+![DNS Traffic](dns_capture.png)
+
+## TLS Handshake
+![TLS Handshake](TLS_handshake.png)
 
 ## 🚀 Future Improvements
 - Implement IDS/IPS systems
