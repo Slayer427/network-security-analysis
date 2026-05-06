@@ -1,6 +1,6 @@
 # network-security-analysis
 ## 📌 Overview
-This project demonstrates basic network security implementation and traffic analysis using industry-standard tools.
+This project demonstrates basic network security implementation and traffic analysis using industry standard tools.
 
 ## 🎯 Objectives
 - Understand common network threats
@@ -19,7 +19,7 @@ This project demonstrates basic network security implementation and traffic anal
 - Enabled Windows Defender Firewall
 - Performed network scanning using Nmap
 - Captured live network traffic using Wireshark
-- Analyzed DNS, HTTP, and TLS protocols
+- Analyzed DNS, HTTP and TLS protocols
 
 ## 📊 Key Findings
 - Most ports were filtered/closed (reduced attack surface)
