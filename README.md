@@ -39,7 +39,7 @@ This screenshot displays the results of an Nmap scan performed on the public IP 
 ![HTTP Traffic](http_traffic.png)
 
 ### 🌐 HTTP Traffic Analysis
-This screenshot shows HTTP traffic captured in Wireshark. Unlike HTTPS, HTTP traffic is unencrypted, meaning the data can be read in plaintext. This highlights the security risk of using HTTP for sensitive communication.
+This screenshot shows HTTP traffic captured in Wireshark. Unlike HTTPS, HTTP traffic is unencrypted meaning the data can be read in plaintext. This highlights the security risk of using HTTP for sensitive communication.
 
 ## TLS Handshake
 ![TLS Handshake](TLS_handshake.png)
@@ -48,15 +48,15 @@ This screenshot shows HTTP traffic captured in Wireshark. Unlike HTTPS, HTTP tra
 This screenshot illustrates the TLS handshake process, including Client Hello and Server Hello messages. It demonstrates how a secure HTTPS connection is established before data is encrypted and transmitted securely.
 
 ## 📊 Key Findings
-- No open ports were exposed, indicating strong firewall protection
-- DNS traffic showed normal system-level communication
-- HTTP traffic was visible in plaintext, highlighting security risks
-- TLS traffic was encrypted after handshake, ensuring secure communication
+- No open ports were exposed indicating strong firewall protection
+- DNS traffic showed normal system level communication
+- HTTP traffic was visible in plaintext highlighting security risks
+- TLS traffic was encrypted after handshake ensuring secure communication
 
 ## 🧠 Learning Outcomes
 - Learned how to analyze network traffic using Wireshark
 - Understood differences between HTTP and HTTPS
-- Gained hands-on experience with Nmap scanning
+- Gained hands on experience with Nmap scanning
 - Identified how encryption protects network data
 
 ## 🚀 Future Improvements
